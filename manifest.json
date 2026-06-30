@@ -1,0 +1,321 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-06-30T15:01:16.670Z",
+  "baseUrl": "https://obadina.github.io/reach-brand-assets",
+  "brands": {
+    "aberdeenlive": {
+      "name": "aberdeenlive",
+      "assets": {
+        "logo": "brands/aberdeenlive/logo.png"
+      }
+    },
+    "accrington": {
+      "name": "accrington",
+      "assets": {}
+    },
+    "alloutfighting": {
+      "name": "alloutfighting",
+      "assets": {
+        "logo": "brands/alloutfighting/logo.png"
+      }
+    },
+    "alloutgaming": {
+      "name": "alloutgaming",
+      "assets": {
+        "logo": "brands/alloutgaming/logo.png"
+      }
+    },
+    "alloutrugbyleague": {
+      "name": "alloutrugbyleague",
+      "assets": {
+        "logo": "brands/alloutrugbyleague/logo.png"
+      }
+    },
+    "alloutsoccer": {
+      "name": "alloutsoccer",
+      "assets": {
+        "logo": "brands/alloutsoccer/logo.png"
+      }
+    },
+    "belfastlive": {
+      "name": "belfastlive",
+      "assets": {
+        "logo": "brands/belfastlive/logo.png"
+      }
+    },
+    "birminghammail": {
+      "name": "birminghamlive",
+      "assets": {
+        "logo": "brands/birminghammail/logo.png"
+      }
+    },
+    "bristolpost": {
+      "name": "bristolpost",
+      "assets": {}
+    },
+    "birminghampost": {
+      "name": "businesslive",
+      "assets": {}
+    },
+    "cambridgenews": {
+      "name": "cambridgeshirelive",
+      "assets": {}
+    },
+    "chesterchronicle": {
+      "name": "cheshirelive",
+      "assets": {}
+    },
+    "nechronicle": {
+      "name": "chroniclelive",
+      "assets": {
+        "logo": "brands/nechronicle/logo.png"
+      }
+    },
+    "coventrytelegraph": {
+      "name": "conventrylive",
+      "assets": {}
+    },
+    "corklive": {
+      "name": "corkbeo",
+      "assets": {}
+    },
+    "cornwalllive": {
+      "name": "cornwalllive",
+      "assets": {
+        "logo": "brands/cornwalllive/logo.png"
+      }
+    },
+    "curiously": {
+      "name": "curiously",
+      "assets": {
+        "logo": "brands/curiously/logo.png"
+      }
+    },
+    "dailyexpress": {
+      "name": "dailyexpress",
+      "assets": {
+        "logo": "brands/dailyexpress/logo.png"
+      }
+    },
+    "dailyrecord": {
+      "name": "dailyrecord",
+      "assets": {
+        "logo": "brands/dailyrecord/logo.png"
+      }
+    },
+    "dailystar": {
+      "name": "dailystar",
+      "assets": {
+        "logo": "brands/dailystar/logo.png"
+      }
+    },
+    "derbytelegraph": {
+      "name": "derbyshirelive",
+      "assets": {}
+    },
+    "devonlive": {
+      "name": "devonlive",
+      "assets": {
+        "logo": "brands/devonlive/logo.png"
+      }
+    },
+    "dublinlive": {
+      "name": "dublinlive",
+      "assets": {
+        "logo": "brands/dublinlive/logo.png"
+      }
+    },
+    "edinburghlive": {
+      "name": "edinburglive",
+      "assets": {
+        "logo": "brands/edinburghlive/logo.png"
+      }
+    },
+    "essexlive": {
+      "name": "essexlive",
+      "assets": {
+        "logo": "brands/essexlive/logo.png"
+      }
+    },
+    "footballlondon": {
+      "name": "footballlondon",
+      "assets": {
+        "logo": "brands/footballlondon/logo.png"
+      }
+    },
+    "footballscotland": {
+      "name": "footballscotland",
+      "assets": {
+        "logo": "brands/footballscotland/logo.png"
+      }
+    },
+    "galwaybeo": {
+      "name": "galwaybeo",
+      "assets": {
+        "logo": "brands/galwaybeo/logo.png"
+      }
+    },
+    "getwestlondon": {
+      "name": "getwestlondon",
+      "assets": {}
+    },
+    "glasgowlive": {
+      "name": "glasgowlive",
+      "assets": {
+        "logo": "brands/glasgowlive/logo.png"
+      }
+    },
+    "gloucestershirelive": {
+      "name": "gloucestershirelive",
+      "assets": {
+        "logo": "brands/gloucestershirelive/logo.png"
+      }
+    },
+    "grimsbytelegraph": {
+      "name": "grimsbylive",
+      "assets": {
+        "logo": "brands/grimsbytelegraph/logo.png"
+      }
+    },
+    "huddersfieldexaminer": {
+      "name": "huddersfieldexaminer",
+      "assets": {}
+    },
+    "hulldailymail": {
+      "name": "hulllive",
+      "assets": {
+        "logo": "brands/hulldailymail/logo.png"
+      }
+    },
+    "irishmirror": {
+      "name": "irishmirror",
+      "assets": {
+        "logo": "brands/irishmirror/logo.png"
+      }
+    },
+    "irishstar": {
+      "name": "irishstar",
+      "assets": {
+        "logo": "brands/irishstar/logo.png"
+      }
+    },
+    "kentlive": {
+      "name": "kentlive",
+      "assets": {
+        "logo": "brands/kentlive/logo.png"
+      }
+    },
+    "leedslive": {
+      "name": "leedslive",
+      "assets": {
+        "logo": "brands/leedslive/logo.png"
+      }
+    },
+    "leicestermercury": {
+      "name": "leicestershirelive",
+      "assets": {
+        "logo": "brands/leicestermercury/logo.png"
+      }
+    },
+    "lincolnshirelive": {
+      "name": "lincolnshirelive",
+      "assets": {
+        "logo": "brands/lincolnshirelive/logo.png"
+      }
+    },
+    "liverpool": {
+      "name": "liverpool",
+      "assets": {
+        "logo": "brands/liverpool/logo.png"
+      }
+    },
+    "liverpoolecho": {
+      "name": "liverpoolecho",
+      "assets": {
+        "logo": "brands/liverpoolecho/logo.png"
+      }
+    },
+    "men": {
+      "name": "men",
+      "assets": {
+        "logo": "brands/men/logo.png"
+      }
+    },
+    "themirrores": {
+      "name": "mirrores",
+      "assets": {}
+    },
+    "mirror": {
+      "name": "mirroronline",
+      "assets": {
+        "logo": "brands/mirror/logo.png"
+      }
+    },
+    "northwales": {
+      "name": "northwaleslive",
+      "assets": {
+        "logo": "brands/northwales/logo.png"
+      }
+    },
+    "nottinghampost": {
+      "name": "nottinghamshirelive",
+      "assets": {
+        "logo": "brands/nottinghampost/logo.png"
+      }
+    },
+    "ok": {
+      "name": "ok",
+      "assets": {
+        "logo": "brands/ok/logo.png"
+      }
+    },
+    "plymouthherald": {
+      "name": "plymouthlive",
+      "assets": {
+        "logo": "brands/plymouthherald/logo.png"
+      }
+    },
+    "rsvp": {
+      "name": "rsvplive",
+      "assets": {
+        "logo": "brands/rsvp/logo.png"
+      }
+    },
+    "scottishdailyexpress": {
+      "name": "scottishdailyexpress",
+      "assets": {
+        "logo": "brands/scottishdailyexpress/logo.png"
+      }
+    },
+    "somersetlive": {
+      "name": "somersetlive",
+      "assets": {
+        "logo": "brands/somersetlive/logo.png"
+      }
+    },
+    "stokesentinel": {
+      "name": "stoke-on-trent",
+      "assets": {
+        "logo": "brands/stokesentinel/logo.png"
+      }
+    },
+    "getsurrey": {
+      "name": "surreylive",
+      "assets": {}
+    },
+    "gazettelive": {
+      "name": "teessidelive",
+      "assets": {}
+    },
+    "themirror": {
+      "name": "themirrorus",
+      "assets": {}
+    },
+    "walesonline": {
+      "name": "walesonline",
+      "assets": {
+        "logo": "brands/walesonline/logo.png"
+      }
+    }
+  }
+}
